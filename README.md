@@ -78,4 +78,3 @@ Colaboracao para a instituicao: ACPIC Lar Sao Jose (Colorado/PR).
 ## Licenca
 
 Uso academico e comunitario.
-Se necessario, adicione aqui uma licenca formal (por exemplo, MIT).
